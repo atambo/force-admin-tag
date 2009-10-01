@@ -1,0 +1,4 @@
+This AMXMODX plugin will check if your server admins have your clan tag in their name.
+If they dont it will add it to their name (unless you have immunity).
+This plugin will also check and see if players without admin have the tag in their name.
+If they do it will remove it from their name. *No need to edit any config files*
